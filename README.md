@@ -8,7 +8,7 @@
 
 This project focuses on analyzing bank loan performance using Power BI to monitor lending health, borrower behavior, and financial risk. Interactive dashboards help stakeholders track loan disbursement, repayment patterns, defaults, and key financial KPIs to support data-driven lending decisions.
 
-![Library_project](https://github.com/BijoyBytes/Power-Bi-Bank-Loan-Analysis/blob/main/Loan_Analysis.jpeg)
+![Library_project](https://github.com/BijoyBytes/Power-Bi-Bank-Loan-Analysis/blob/main/loan-performance-analysis-slide1.png)
 
 ## Objectives
 
